@@ -1,0 +1,14 @@
+{
+  "name": "tdd-jasmine",
+  "version": "1.0.0",
+  "description": "practice writing tests with jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "igor houwat",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
